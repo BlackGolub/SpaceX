@@ -234,10 +234,6 @@ span{
 }
 
 @media screen and (max-width: 1025px){
-    .back{
-        height: 100vw;
-    }
-
     .back::before{
         left: 49.4%;
     }
